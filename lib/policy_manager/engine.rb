@@ -1,3 +1,4 @@
+require 'rails/engine'
 module PolicyManager
   class Engine < ::Rails::Engine
     isolate_namespace PolicyManager
